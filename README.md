@@ -24,12 +24,6 @@ Faculty Mentor(s) Name :M.SINTHU
 
 
 
-
-
-
-
-
-
 Customer Care Registry implementing on Web development based on Cloud Application Development
 
 
