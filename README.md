@@ -3,15 +3,16 @@ Customer Care Registry
 
 Project Title :Customer Care Registry
 
+
 Team details:
 
-Mathavan R
+•Mathavan R
 
-Sumathi ponnammal S
+•Sumathi ponnammal S
 
-Muthu Selvi M
+•Muthu Selvi M
 
-Babisha M
+•Babisha M
 
 Industry Mentor(s) Name :Vasudeva Hanush
 
@@ -40,7 +41,7 @@ PROJECT PHASE 03
 PROJECT COMPLETION
 
 
-TABLE OF CONTENTS
+# TABLE OF CONTENTS
 
 📝 PROJECT DESCRIPTION
 
@@ -52,54 +53,55 @@ USER : They can register for an account. After the login, they can create the co
 
 👨🏻‍💻 SOFTWARE REQUIRE
 
-PYTHON
-FLASK
-DOCKER
+•PYTHON
+•FLASK
+•DOCKER
 
 🈸 SKILLS REQUIRED
 
-Python
+•Python
 
-SQL
+•SQL
 
-HTML, Javascript
+•HTML, Javascript
 
-IBM Cloud
+•IBM Cloud
 
-Kubernetes
+•Kubernetes
 
 🧑🏻‍🦰 TEAM MEMBERS
 
-Mathavan R
+•Mathavan R
 
-Sumathi ponnammal S
+•Sumathi ponnammal S
 
-Muthu Selvi M
+•Muthu Selvi M
 
-Babisha M 
+•Babisha M 
 
 📒 ASSIGNMENT FINISHED
 
- ASSIGNMENT 1
+✓ ASSIGNMENT 1
 
- ASSIGNMENT 2
+✓ ASSIGNMENT 2
 
- ASSIGNMENT 3
+✓ ASSIGNMENT 3
 
- ASSIGNMENT 4
+✓ ASSIGNMENT 4
 
 PROJECT DESIGN & PLANNING
 
 🧩 IDEATION PHASE
 
   Ideation is the process where you generate ideas and solutions through sessions such as Sketching, Prototyping, Brainstorming, Brainwriting, Worst Possible Idea, and a wealth of other ideation techniques.
- Literature Survey
 
- Problem Statement
+✓ Literature Survey
 
- Empathy Map
+✓ Problem Statement
 
- Brainstorm
+✓ Empathy Map
+
+✓ Brainstorm
 
  Top 3 Ideas
 
@@ -109,34 +111,34 @@ PROJECT DESIGN & PLANNING
 
 DESIGN PHASE 01 ⚒️
 
- Proposed Solution
+✓ Proposed Solution
 
- Problem-Solution Fit
+✓ Problem-Solution Fit
 
- Solution Architecture
+✓ Solution Architecture
 
 DESIGN PHASE 02 ⚒️
 
- Solution Requirements
+✓ Solution Requirements
 
- Customer Journey Map
+✓ Customer Journey Map
 
- Data Flow Diagrams
+✓ Data Flow Diagrams
 
- Technology Stack
+✓ Technology Stack
 
 PLANNING PHASE
 
- Milestone and Activity List
+✓ Milestone and Activity List
 
- Sprint Delivery plan
+✓ Sprint Delivery plan
 
 PROJECT DEVELOPMENT
 
- SPRINT 01
+✓ SPRINT 01
 
- SPRINT 02
+✓ SPRINT 02
 
- SPRINT 03
+✓ SPRINT 03
 
- SPRINT 04
+✓ SPRINT 04
