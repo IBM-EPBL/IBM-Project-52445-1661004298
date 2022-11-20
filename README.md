@@ -6,13 +6,13 @@ Project Title :Customer Care Registry
 
 Team details:
 
-•Mathavan R
+• Mathavan R
 
-•Sumathi ponnammal S
+• Sumathi ponnammal S
 
-•Muthu Selvi M
+• Muthu Selvi M
 
-•Babisha M
+• Babisha M
 
 Industry Mentor(s) Name :Vasudeva Hanush
 
